@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**Andre-Proenca/Andre-Proenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá! Meu nome é André Proença e sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e código aberto. Atualmente, estou estudando JAVA, e estou sempre em busca de aprender coisas novas e colaborar em projetos interessantes.
 
-Here are some ideas to get you started:
+## Principais Tecnologias
+- Linguagens de Programação: [JAVA, C#, Python]
+- Frameworks: [Spring Boot, React.js, Angular]
+- Ferramentas de Desenvolvimento: [VS Code, IntelliJ IDEA, PyCharm, Eclipse]
+- Outras habilidades técnicas: [Microsoft SQL Server, MySQL, PostgreSQL]
+- LinkedIn: https://www.linkedin.com/in/andreleivaproenca/
+- Email: andreproenca@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para colaborações ou apenas para trocar ideias sobre tecnologia. 😊
