@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil no GitHub!
 
 ## Sobre mim
-Olá! Meu nome é André Proença e sou um entusiasta da tecnologia, bacharel em Ciência da Computação e apaixonado por desenvolvimento de software e código aberto. Atualmente, estou estudando JAVA, e estou sempre em busca de aprender coisas novas e colaborar em projetos interessantes.
+Olá! Meu nome é André Proença e sou um entusiasta da tecnologia, bacharel em Ciência da Computação, apaixonado por desenvolvimento de software e código aberto. Sou capaz de aprender rapidamente com habilidades analíticas fortes e estou disposto a me adaptar a novas tecnologias e processos para colaborar em projetos.
 
 ## Principais Tecnologias
 - Linguagens de Programação: [JAVA, C#, Python]
